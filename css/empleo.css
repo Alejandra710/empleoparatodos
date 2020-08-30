@@ -1,0 +1,41 @@
+.header{
+    background-color: turquoise;
+    background-image: url(../img/puente.jpg);
+    background-size: cover;
+    background-position-y: 30%;
+
+}
+
+.header img{ 
+  height: 100px;
+}
+
+
+.main{
+    /*background-color: blueviolet;*/
+}
+
+.main img{
+    height: 60vh;
+}
+
+.empresa{
+    background-color:white;
+    text-align:center ;
+}
+
+.articulos{
+    padding: 4em;
+    background-color:lightskyblue;
+
+}
+.articulos iframe{
+    height: 100%;
+    width: 100%;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
